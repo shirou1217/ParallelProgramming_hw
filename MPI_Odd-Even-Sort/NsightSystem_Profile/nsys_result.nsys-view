@@ -1,0 +1,20 @@
+{
+    "extension": "nsys-view",
+    "files": [
+        "report1.nsys-rep",
+        "report2.nsys-rep",
+        "report3.nsys-rep",
+        "report4.nsys-rep",
+        "report5.nsys-rep",
+        "report6.nsys-rep",
+        "report7.nsys-rep",
+        "report8.nsys-rep",
+        "report9.nsys-rep",
+        "report10.nsys-rep",
+        "report11.nsys-rep",
+        "report12.nsys-rep"
+    ],
+    "product-version": "2024.6.1.90-246134905481v0",
+    "uuid": "{7b9f2db1-b58c-4417-b668-fab274b7c2f0}",
+    "version": "1.0"
+}
